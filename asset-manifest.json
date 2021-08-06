@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/trade@main/static/js/main.bbbd0079.chunk.js",
-    "runtime-main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/trade@main/static/js/runtime-main.42bce690.js",
+    "main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/trade@main/static/js/main.d107ce99.chunk.js",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/trade@main/static/js/runtime-main.48d22dfe.js",
     "static/css/2.ae460035.chunk.css": "https://cdn.jsdelivr.net/gh/mdexSwap/trade@main/static/css/2.ae460035.chunk.css",
     "static/js/2.d6a07d79.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/trade@main/static/js/2.d6a07d79.chunk.js",
     "static/js/3.51bc15ed.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/trade@main/static/js/3.51bc15ed.chunk.js",
@@ -11,9 +11,9 @@
     "static/media/mdex.7ded1798.png": "https://cdn.jsdelivr.net/gh/mdexSwap/trade@main/static/media/mdex.7ded1798.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.42bce690.js",
+    "static/js/runtime-main.48d22dfe.js",
     "static/css/2.ae460035.chunk.css",
     "static/js/2.d6a07d79.chunk.js",
-    "static/js/main.bbbd0079.chunk.js"
+    "static/js/main.d107ce99.chunk.js"
   ]
 }
