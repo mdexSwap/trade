@@ -1,19 +1,38 @@
 {
   "files": {
-    "main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/trade@main/static/js/main.d107ce99.chunk.js",
-    "runtime-main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/trade@main/static/js/runtime-main.48d22dfe.js",
+    "main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/trade@main/static/js/main.11707fc3.chunk.js",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/trade@main/static/js/runtime-main.fe9e992c.js",
     "static/css/2.ae460035.chunk.css": "https://cdn.jsdelivr.net/gh/mdexSwap/trade@main/static/css/2.ae460035.chunk.css",
-    "static/js/2.d6a07d79.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/trade@main/static/js/2.d6a07d79.chunk.js",
-    "static/js/3.51bc15ed.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/trade@main/static/js/3.51bc15ed.chunk.js",
+    "static/js/2.f5e642e3.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/trade@main/static/js/2.f5e642e3.chunk.js",
+    "static/js/3.7b3a54fa.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/trade@main/static/js/3.7b3a54fa.chunk.js",
     "index.html": "https://cdn.jsdelivr.net/gh/mdexSwap/trade@main/index.html",
-    "static/js/2.d6a07d79.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/trade@main/static/js/2.d6a07d79.chunk.js.LICENSE.txt",
+    "static/js/2.f5e642e3.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/trade@main/static/js/2.f5e642e3.chunk.js.LICENSE.txt",
+    "static/media/Discord-hover.3bf8542c.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/trade@main/static/media/Discord-hover.3bf8542c.svg",
+    "static/media/Discord.385c4da8.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/trade@main/static/media/Discord.385c4da8.svg",
+    "static/media/Github-hover.4270c01f.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/trade@main/static/media/Github-hover.4270c01f.svg",
+    "static/media/Github.968d39ae.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/trade@main/static/media/Github.968d39ae.svg",
+    "static/media/Medium-hover.55e4403a.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/trade@main/static/media/Medium-hover.55e4403a.svg",
+    "static/media/Medium.c44d5367.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/trade@main/static/media/Medium.c44d5367.svg",
+    "static/media/Telegram-hover.501c5eb3.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/trade@main/static/media/Telegram-hover.501c5eb3.svg",
+    "static/media/Telegram.01b6792b.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/trade@main/static/media/Telegram.01b6792b.svg",
+    "static/media/Twitter-hover.0c6e67e2.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/trade@main/static/media/Twitter-hover.0c6e67e2.svg",
+    "static/media/Twitter.aaeb3286.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/trade@main/static/media/Twitter.aaeb3286.svg",
+    "static/media/Weibo-hover.24f54e46.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/trade@main/static/media/Weibo-hover.24f54e46.svg",
+    "static/media/Weibo.e026f151.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/trade@main/static/media/Weibo.e026f151.svg",
+    "static/media/banner_bsc.4b566b04.png": "https://cdn.jsdelivr.net/gh/mdexSwap/trade@main/static/media/banner_bsc.4b566b04.png",
     "static/media/beta.d42b88ae.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/trade@main/static/media/beta.d42b88ae.svg",
-    "static/media/mdex.7ded1798.png": "https://cdn.jsdelivr.net/gh/mdexSwap/trade@main/static/media/mdex.7ded1798.png"
+    "static/media/domain.e284d22d.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/trade@main/static/media/domain.e284d22d.svg",
+    "static/media/info.948a2554.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/trade@main/static/media/info.948a2554.svg",
+    "static/media/language.390f17a3.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/trade@main/static/media/language.390f17a3.svg",
+    "static/media/mdex.7ded1798.png": "https://cdn.jsdelivr.net/gh/mdexSwap/trade@main/static/media/mdex.7ded1798.png",
+    "static/media/more.422638b1.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/trade@main/static/media/more.422638b1.svg",
+    "static/media/news.7414a6f2.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/trade@main/static/media/news.7414a6f2.svg",
+    "static/media/setting.74d4f8c8.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/trade@main/static/media/setting.74d4f8c8.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.48d22dfe.js",
+    "static/js/runtime-main.fe9e992c.js",
     "static/css/2.ae460035.chunk.css",
-    "static/js/2.d6a07d79.chunk.js",
-    "static/js/main.d107ce99.chunk.js"
+    "static/js/2.f5e642e3.chunk.js",
+    "static/js/main.11707fc3.chunk.js"
   ]
 }
