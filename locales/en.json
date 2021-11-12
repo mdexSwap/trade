@@ -187,5 +187,6 @@
   "limitFail": "Limit order fails to be placed",
   "warnTips": "Are you sure you still want to trade if the current input price and market price fluctuate more than 10%?",
   "accepted": "Accepted",
-  "minNumber": "The minimum number of pending orders is"
+  "minNumber": "The minimum number of pending orders is",
+  "delegateOrder": "Delegate Order"
 }

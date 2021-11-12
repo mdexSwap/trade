@@ -185,5 +185,6 @@
   "limitFail": "限价下单失败",
   "warnTips": "当前输入价格与市场价格波动超过10%，您确定仍要进行交易吗？",
   "accepted": "已接受",
-  "minNumber": "最小挂单数量为"
+  "minNumber": "最小挂单数量为",
+  "delegateOrder": "委托订单"
 }
