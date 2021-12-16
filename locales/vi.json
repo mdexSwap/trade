@@ -188,5 +188,25 @@
   "warnTips": "Bạn có chắc chắn vẫn muốn giao dịch nếu giá đầu vào và giá thị trường hiện tại biến động hơn 20% không?",
   "accepted": "Được chấp nhận",
   "minNumber": "Số lượng đơn đặt hàng đang chờ xử lý tối thiểu là",
-  "delegateOrder": "Lệnh ủy nhiệm"
+  "delegateOrder": "Lệnh ủy nhiệm",
+
+  "hot": "Phổ biến",
+  "projectName": "Tên dự án",
+  "contractAddress": "Hợp đồn",
+  "tokenDetail": "Chi tiết dự án",
+  "tokenName": "Tên mã thông báo",
+  "circulationMarketValue": "Vốn hóa thị trường",
+  "projectOfficialWebsite": "Trang mạng",
+  "maximumSupply": "Tổng cung",
+  "circulation": "Cung luân chuyển",
+  "communityInfo": "Cộng đồng",
+
+  "charts": "Thông tin",
+  "trade": "Biểu đồ",
+  "inviteRebate": "Chiết khấu mời",
+  "crossChain": "Bridge",
+  "Fluidity": "Danh sách trắng khai thác thanh khoản",
+  "invitePlan": "Tham gia hệ thống giới thiệu",
+  "MdexApplication": "Ứng dụng Quỹ sinh thái MDEX",
+  "MDEXDomain": "Tên miền mới nhất của MDEX"
 }

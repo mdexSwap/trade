@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>TIme</title>
+    <g id="热门币种投票" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-1095.000000, -1280.000000)" id="编组-21备份-2">
+            <g transform="translate(360.000000, 1235.000000)">
+                <g id="编组-35" transform="translate(735.000000, 44.000000)">
+                    <g id="TIme" transform="translate(0.000000, 1.000000)">
+                        <rect id="矩形" x="0" y="0" width="14" height="14"></rect>
+                        <path d="M7,14 C3.13400391,14 0,10.8659961 0,7 C0,3.13400391 3.13400391,0 7,0 C10.8659961,0 14,3.13400391 14,7 C14,10.8659961 10.8659961,14 7,14 Z" id="路径" fill="#FFA193" fill-rule="nonzero"></path>
+                        <polyline id="路径-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="7 3.375 7 7.06930025 9 8.375"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

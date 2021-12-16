@@ -189,5 +189,25 @@
   "limitFail": "Falha ao lançar ordem limite",
   "warnTips": "Tem certeza de que ainda deseja negociar se o preço de entrada atual e o preço de mercado flutuarem mais de 20%?",
   "accepted": "Aceito",
-  "minNumber": "O número mínimo de ordens pendentes é"
+  "minNumber": "O número mínimo de ordens pendentes é",
+
+  "hot": "Popular",
+  "projectName": "Nome do Projeto",
+  "contractAddress": "Contratos",
+  "tokenDetail": "Detalhes do Projeto",
+  "tokenName": "Nome do token",
+  "circulationMarketValue": "Valor de mercado",
+  "projectOfficialWebsite": "Local na rede Internet",
+  "maximumSupply": "Abastecimento Total",
+  "circulation": "Suprimento Circulante",
+  "communityInfo": "Comunidade",
+
+  "charts": "Informação",
+  "trade": "Negociação",
+  "inviteRebate": "Desconto por convite",
+  "crossChain": "Ponte",
+  "Fluidity": "Cadastro para Mineração de Liquidez",
+  "invitePlan": "Participe do Sistema de Referência",
+  "MdexApplication": "Cadastro para Fundo Ecológico MDEX",
+  "MDEXDomain": "Último nome de domínio da MDEX"
 }
