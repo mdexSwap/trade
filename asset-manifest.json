@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.a4b89449.chunk.js",
+    "main.js": "/static/js/main.0ea90083.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.23332855.js",
     "static/css/2.ae460035.chunk.css": "/static/css/2.ae460035.chunk.css",
     "static/js/2.609f14eb.chunk.js": "/static/js/2.609f14eb.chunk.js",
@@ -68,6 +68,7 @@
     "static/media/time.ede1e724.svg": "/static/media/time.ede1e724.svg",
     "static/media/tips.6d057451.svg": "/static/media/tips.6d057451.svg",
     "static/media/twitter.d4cf5c2f.svg": "/static/media/twitter.d4cf5c2f.svg",
+    "static/media/vote.56047364.svg": "/static/media/vote.56047364.svg",
     "static/media/voteCount.c19a3528.svg": "/static/media/voteCount.c19a3528.svg",
     "static/media/vulnerability.cf1c6ca9.svg": "/static/media/vulnerability.cf1c6ca9.svg"
   },
@@ -75,6 +76,6 @@
     "static/js/runtime-main.23332855.js",
     "static/css/2.ae460035.chunk.css",
     "static/js/2.609f14eb.chunk.js",
-    "static/js/main.a4b89449.chunk.js"
+    "static/js/main.0ea90083.chunk.js"
   ]
 }
